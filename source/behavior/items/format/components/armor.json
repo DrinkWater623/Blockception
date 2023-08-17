@@ -14,11 +14,5 @@
       "title": "Texture Type",
       "enum": ["gold", "none", "leather", "chain", "iron", "diamond", "elytra", "turtle", "netherite"]
     }
-  },
-  "examples": [
-    {
-      "protection": 5,
-      "texture_type" : "diamond"
-    }
-  ]
+  }
 }
